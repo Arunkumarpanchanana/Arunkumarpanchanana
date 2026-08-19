@@ -1,0 +1,40 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Arunkumar Panchanana - IT Operations Leader</title>
+  <desc id="description">A professional dark navy banner with blue gradient accents.</desc>
+  <defs>
+    <linearGradient id="background" x1="32" y1="20" x2="1120" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071426"/>
+      <stop offset="0.53" stop-color="#0A2342"/>
+      <stop offset="1" stop-color="#063B68"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="800" y1="30" x2="1160" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0.08"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#020617" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#background)"/>
+  <circle cx="1057" cy="85" r="192" fill="url(#accent)"/>
+  <circle cx="1110" cy="265" r="150" stroke="#38BDF8" stroke-opacity="0.25" stroke-width="2"/>
+  <path d="M820 0L1200 0V360H1045C1002 266 922 219 820 213V0Z" fill="#0B5B9D" fill-opacity="0.11"/>
+  <g opacity="0.45" stroke="#7DD3FC" stroke-width="1.5">
+    <path d="M884 87H1096"/>
+    <path d="M884 139H1141"/>
+    <path d="M884 191H1090"/>
+    <path d="M884 243H1140"/>
+    <path d="M936 35V294"/>
+    <path d="M988 35V294"/>
+    <path d="M1040 35V294"/>
+    <path d="M1092 35V294"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="72" y="77" width="88" height="88" rx="22" fill="#0EA5E9"/>
+    <text x="116" y="137" text-anchor="middle" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">AP</text>
+  </g>
+  <text x="72" y="218" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">Arunkumar Panchanana</text>
+  <text x="72" y="258" fill="#BAE6FD" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="500">IT Operations Leader  •  Service Desk Management  •  AI &amp; Automation</text>
+  <rect x="72" y="292" width="302" height="34" rx="17" fill="#0EA5E9" fill-opacity="0.2" stroke="#7DD3FC" stroke-opacity="0.55"/>
+  <text x="223" y="315" text-anchor="middle" fill="#E0F2FE" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600">BUILDING BETTER EMPLOYEE EXPERIENCES</text>
+</svg>
